@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 28-Jun-15 23:21:10 -->
+<GameData>
+	<!--   SETUP SCREENS   -->
+	<Language_en_US>
+		<Row Tag="TEXT_KEY_RED_IWO_JIMA_SCENARIO_TITLE">
+			<Text>Battle of Iwo Jima (Feb. 1945)</Text>
+		</Row>
+		<Row Tag="TEXT_KEY_RED_IWO_JIMA_SCENARIO_DESC">
+			<Text>
+				Author: Gedemon[NEWLINE]Size: [COLOR_POSITIVE_TEXT]Small[/COLOR][NEWLINE][NEWLINE]Take control of three U.S. Marine Divisions and try to take Iwo Jima with minimal casualties.
+			</Text>
+		</Row>
+		<Row Tag="TEXT_KEY_RED_IWO_JIMA_BRIEFING">
+			<Text>Take control of three U.S. Marine Divisions and try to take Iwo Jima with minimal casualties.</Text>
+		</Row>
+		<Row Tag="TEXT_KEY_RED_IWO_JIMA_GENERIC_CIVILIZATION_BRIEFING">
+			<Text>Take control of three U.S. Marine Divisions and try to take Iwo Jima with minimal casualties.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
